@@ -1,0 +1,2 @@
+install matlab and before running the code please change the location inside the code for where the logos are placed
+then press run 
